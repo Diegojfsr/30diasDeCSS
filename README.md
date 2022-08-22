@@ -1,5 +1,3 @@
-# 30diasDeCSS
-Repositório criado para documentar e armazenar as dicas e os códigos do desafio dos 30 dias de CSS3 visando melhorar minhas habilidades codificação fazendo mini projetos diários utilizando HTML5 e CSS3.
 
 <h1> 
   Sejam bem-vindos!!! <br>
@@ -8,6 +6,7 @@ Repositório criado para documentar e armazenar as dicas e os códigos do desafi
 <h3>
   Esse é o meu repositorio com dicas e os códigos do desafio dos 30 dias de CSS3 .
 </h3>
+
 
 <h5> 
   Repositório criado para documentar e armazenar as dicas e os códigos do desafio dos 30 dias de CSS3 visando melhorar minhas habilidades codificação fazendo mini projetos diários utilizando HTML5 e CSS3.
@@ -20,10 +19,7 @@ Repositório criado para documentar e armazenar as dicas e os códigos do desafi
       <li>O projeto deve ser concluído até 23:59</li>
 </ul>
  
-<p dir="auto">
-  <h3>Gostou da ideia?</h3>
-  Para participar <a href="https://github.com/MilenaCarecho/30diasDeCSS/issues/1" data-hovercard-type="issue" data-hovercard-                                url="/MilenaCarecho/30diasDeCSS/issues/1/hovercard">Clique aqui</a>
-</p>
+
 
 <h2 dir="auto"> 🚦 Guia </h2>
 
@@ -33,13 +29,15 @@ Repositório criado para documentar e armazenar as dicas e os códigos do desafi
  <li> Dia 03 - Efeito banner com mudança de cor do texto. <a href="https://"> Acessar </a></li>
  <li> Dia 04 - Botão com borda animada. <a href="https://"> Acessar </a></li>
  <li> Dia 05 - Botão com efeito pulse. <a href="https://"> Acessar </a></li>
-  
-  
-  
-  
-  
-  
+ 
 </ul>
+
+<h2 dir="auto"> ⚠️ Especificação e requisitos </h2>
+
+<h2 dir="auto"> 📖 Anotações </h2>
+
+<h2 dir="auto"> 🔗 Links Úteis </h2>
+
 
 <h2 dir="auto"> 🤝 Contribuindo </h2>
 <p dir="auto">
@@ -47,3 +45,9 @@ Repositório criado para documentar e armazenar as dicas e os códigos do desafi
   saber. E caso você conheça alguém que se identidique com o conteúdo, não deixe de compatilhar.
 </p>
 
+<p dir="auto">
+<em>
+  <h3>Gostou da ideia?</h3>
+  Para participar <a href="https://github.com/MilenaCarecho/30diasDeCSS/issues/1" data-hovercard-type="issue" data-hovercard-                              url="/MilenaCarecho/30diasDeCSS/issues/1/hovercard">Clique aqui</a>
+</em>
+</p>
