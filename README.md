@@ -16,27 +16,29 @@ Repositório criado para documentar e armazenar as dicas e os códigos do desafi
 <h2> 🎯 Objetivo </h2>
 <ul dir="auto">
       <li>Realizar 30 projetos, (não necessariamente precisa ser por 30 dias seguidos)</li>
-      <li>Compartilhe seu progresso nas mídias sociais (Twitter, Facebook, Linkedin etc.) usando a hashtag #30diasDeCSS</li>
+      <li>Compartilhar o progresso nas mídias sociais (Twitter, Facebook, Linkedin etc.) usando a hashtag #30diasDeCSS</li>
       <li>O projeto deve ser concluído até 23:59</li>
 </ul>
  
- <p dir="auto">Gostou da ideia? <a href="https://github.com/MilenaCarecho/30diasDeCSS/issues/1" data-hovercard-type="issue" data-hovercard-                                url="/MilenaCarecho/30diasDeCSS/issues/1/hovercard">Clique aqui</a> para participar</p>
+<p dir="auto">
+  <h3>Gostou da ideia?</h3>
+  Para participar <a href="https://github.com/MilenaCarecho/30diasDeCSS/issues/1" data-hovercard-type="issue" data-hovercard-                                url="/MilenaCarecho/30diasDeCSS/issues/1/hovercard">Clique aqui</a>
+</p>
 
 <h2 dir="auto"> 🚦 Guia </h2>
 
 <ul dir="auto">
- <li> 
-  Ex1 - Faça uma mensagem de 'Olá Mundo'...<a href="https://">Acessar</a>
- </li>
- <li> 
-  Ex2 - Faça uma saída de soma de 2 inteiros, ex: alert(2 + 2). <a href="https://"> Acessar </a>
- </li>
- <li> 
-  Ex3 - Exiba a quantidade de letras que possuem o texto inserido ao clicar no botão. <a href="https://"> Acessar </a>
- </li>
- <li> 
-  Ex4 - Exiba o 'resto' de uma divisão:. <a href="https://"> Acessar </a>
- </li>
+ <li> Dia 01 - Ícone de mídia social em camadas. <a href="https://">Acessar</a></li>
+ <li> Dia 02 - Loading animado. <a href="https://"> Acessar </a></li>
+ <li> Dia 03 - Efeito banner com mudança de cor do texto. <a href="https://"> Acessar </a></li>
+ <li> Dia 04 - Botão com borda animada. <a href="https://"> Acessar </a></li>
+ <li> Dia 05 - Botão com efeito pulse. <a href="https://"> Acessar </a></li>
+  
+  
+  
+  
+  
+  
 </ul>
 
 <h2 dir="auto"> 🤝 Contribuindo </h2>
