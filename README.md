@@ -18,8 +18,9 @@ Repositório criado para documentar e armazenar as dicas e os códigos do desafi
       <li>Realizar 30 projetos, (não necessariamente precisa ser por 30 dias seguidos)</li>
       <li>Compartilhe seu progresso nas mídias sociais (Twitter, Facebook, Linkedin etc.) usando a hashtag #30diasDeCSS</li>
       <li>O projeto deve ser concluído até 23:59</li>
-      <p dir="auto">Gostou da ideia? <a href="https://github.com/MilenaCarecho/30diasDeCSS/issues/1" data-hovercard-type="issue" data-hovercard-                                url="/MilenaCarecho/30diasDeCSS/issues/1/hovercard">Clique aqui</a> para participar</p>
 </ul>
+ 
+ <p dir="auto">Gostou da ideia? <a href="https://github.com/MilenaCarecho/30diasDeCSS/issues/1" data-hovercard-type="issue" data-hovercard-                                url="/MilenaCarecho/30diasDeCSS/issues/1/hovercard">Clique aqui</a> para participar</p>
 
 <h2 dir="auto"> 🚦 Guia </h2>
 
