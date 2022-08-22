@@ -15,7 +15,7 @@ Repositório criado para documentar e armazenar as dicas e os códigos do desafi
 
 <h2> 🎯 Objetivo </h2>
 <ul dir="auto">
-      <li>Realizar 30 projetos, (não necessariamente precisa ser por 30 dias seguidos)</li>
+      <li>Realizar 30 projetos.</li>
       <li>Compartilhar o progresso nas mídias sociais (Twitter, Facebook, Linkedin etc.) usando a hashtag #30diasDeCSS</li>
       <li>O projeto deve ser concluído até 23:59</li>
 </ul>
