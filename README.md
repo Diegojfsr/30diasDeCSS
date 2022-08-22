@@ -47,7 +47,7 @@
 
 <p dir="auto">
 <em>
-  <h3>Gostou da ideia?</h3>
-  Para participar <a href="https://github.com/MilenaCarecho/30diasDeCSS/issues/1" data-hovercard-type="issue" data-hovercard-                              url="/MilenaCarecho/30diasDeCSS/issues/1/hovercard">Clique aqui</a>
+  <h2>Gostou da ideia? 💡</h2>
+  Para participar <a href="https://github.com/MilenaCarecho/30diasDeCSS/issues/1" data-hovercard-type="issue" data-hovercard-                              url="/MilenaCarecho/30diasDeCSS/issues/1/hovercard">Clique aqui</a>❤️
 </em>
 </p>
